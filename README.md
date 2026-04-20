@@ -220,7 +220,7 @@ curl -X POST "https://localhost:7070/api/import-validation/csv" \
 Validate an invalid XML file in relaxed mode:
 
 ```bash
-curl -X POST "https://localhost:7070/api/import-validation/xml" \
+curl -X POST "https://localhost:5038/api/import-validation/xml" \
   -F "file=@sample-data/invalid-supplier-invoices.xml" \
   -F "mode=Relaxed"
 ```
