@@ -1,0 +1,15 @@
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Application\bin\Debug\net8.0\ErpDataImportValidator.Application.deps.json
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Application\bin\Debug\net8.0\ErpDataImportValidator.Application.dll
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Application\bin\Debug\net8.0\ErpDataImportValidator.Application.pdb
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Application\bin\Debug\net8.0\ErpDataImportValidator.Domain.dll
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Application\bin\Debug\net8.0\ErpDataImportValidator.Domain.pdb
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Application\obj\Debug\net8.0\ErpDataImportValidator.Application.csproj.AssemblyReference.cache
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Application\obj\Debug\net8.0\ErpDataImportValidator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Application\obj\Debug\net8.0\ErpDataImportValidator.Application.AssemblyInfoInputs.cache
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Application\obj\Debug\net8.0\ErpDataImportValidator.Application.AssemblyInfo.cs
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Application\obj\Debug\net8.0\ErpDataImportValidator.Application.csproj.CoreCompileInputs.cache
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Application\obj\Debug\net8.0\ErpDataI.C556366D.Up2Date
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Application\obj\Debug\net8.0\ErpDataImportValidator.Application.dll
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Application\obj\Debug\net8.0\refint\ErpDataImportValidator.Application.dll
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Application\obj\Debug\net8.0\ErpDataImportValidator.Application.pdb
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Application\obj\Debug\net8.0\ref\ErpDataImportValidator.Application.dll

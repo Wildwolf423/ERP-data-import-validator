@@ -1,0 +1,5 @@
+documentId,supplierId,supplierName,documentDate,amount,currency,location,documentType
+INV-2026-2001,SUP-12,Short Supplier,2027-01-01,-50.00,XYZ,BUD,SupplierInvoice
+INV-2026-2001,SUP-2002,,2026-04-12,900.00,EUR,PRG,CreditMemo
+,,,,,,,
+INV-2026-2003,SUP-2003,Woodgrove Bank,not-a-date,abc,HUF,VIE,VendorMaster

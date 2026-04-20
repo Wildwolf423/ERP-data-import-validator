@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ErpDataImportValidator.Api</name>
+    </assembly>
+    <members>
+        <member name="T:ErpDataImportValidator.Api.Controllers.ImportValidationController">
+            <summary>
+            Validates ERP-style import files before they are loaded into downstream business processes.
+            </summary>
+        </member>
+        <member name="M:ErpDataImportValidator.Api.Controllers.ImportValidationController.ValidateCsv(ErpDataImportValidator.Api.Models.ImportValidationUploadRequest,System.Threading.CancellationToken)">
+            <summary>
+            Uploads a CSV file and returns a detailed validation report.
+            </summary>
+            <remarks>
+            Use the sample file <c>sample-data/invalid-supplier-invoices.csv</c> to demonstrate structure issues,
+            duplicate document detection, invalid supplier formats, and business-rule failures.
+            </remarks>
+        </member>
+        <member name="M:ErpDataImportValidator.Api.Controllers.ImportValidationController.ValidateXml(ErpDataImportValidator.Api.Models.ImportValidationUploadRequest,System.Threading.CancellationToken)">
+            <summary>
+            Uploads an XML file and returns a detailed validation report.
+            </summary>
+            <remarks>
+            Use the sample file <c>sample-data/invalid-supplier-invoices.xml</c> to demonstrate missing nodes,
+            unsupported values, duplicate document detection, and future-date validation.
+            </remarks>
+        </member>
+        <member name="M:ErpDataImportValidator.Api.Controllers.ImportValidationController.GetSampleSummary">
+            <summary>
+            Returns the bundled sample files and the active validation settings summary.
+            </summary>
+        </member>
+        <member name="P:ErpDataImportValidator.Api.Models.ImportValidationUploadRequest.IncludePreview">
+            <summary>
+            When true, the API returns a preview of parsed records in the response.
+            </summary>
+        </member>
+        <member name="P:ErpDataImportValidator.Api.Models.ImportValidationUploadRequest.PreviewLimit">
+            <summary>
+            Maximum number of preview records to include in the response. Allowed range: 0 to 50.
+            </summary>
+        </member>
+        <member name="P:ErpDataImportValidator.Api.Models.ImportValidationUploadRequest.Mode">
+            <summary>
+            Optional validation mode override. Use Relaxed mode to downgrade certain business-rule findings to warnings.
+            </summary>
+        </member>
+    </members>
+</doc>

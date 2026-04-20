@@ -1,0 +1,4 @@
+documentId,supplierId,supplierName,documentDate,amount,currency,location,documentType
+INV-2026-1001,SUP-1001,Contoso Industrial Supplies,2026-04-10,1280.50,EUR,BUD,SupplierInvoice
+CM-2026-1002,SUP-1002,Fabrikam Logistics,2026-04-11,240.00,USD,VIE,CreditMemo
+VM-2026-1003,SUP-1003,Northwind Components,2026-04-12,1.00,HUF,WAR,VendorMaster

@@ -1,0 +1,21 @@
+<ImportBatch sourceSystem="LegacyFeed">
+  <Document>
+    <DocumentId>INV-2026-4001</DocumentId>
+    <SupplierId>SUP-55</SupplierId>
+    <SupplierName>Bad Id Supplies</SupplierName>
+    <DocumentDate>2027-05-01</DocumentDate>
+    <Amount>-125.00</Amount>
+    <Currency>XYZ</Currency>
+    <Location>PRG</Location>
+    <DocumentType>CreditMemo</DocumentType>
+  </Document>
+  <Document>
+    <DocumentId>INV-2026-4001</DocumentId>
+    <SupplierName>Missing Supplier ID Ltd</SupplierName>
+    <DocumentDate>2026-04-13</DocumentDate>
+    <Amount>785.50</Amount>
+    <Currency>EUR</Currency>
+    <Location>WAR</Location>
+    <DocumentType>VendorMaster</DocumentType>
+  </Document>
+</ImportBatch>

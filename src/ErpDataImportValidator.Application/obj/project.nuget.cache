@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "b3wZyohn7ek=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mizer\\Desktop\\CV_projects\\erp-data-import-validator\\src\\ErpDataImportValidator.Application\\ErpDataImportValidator.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mizer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\mizer\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\mizer\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\mizer\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

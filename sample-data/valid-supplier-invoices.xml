@@ -1,0 +1,22 @@
+<ImportBatch sourceSystem="VendorPortal">
+  <Document>
+    <DocumentId>INV-2026-3001</DocumentId>
+    <SupplierId>SUP-1001</SupplierId>
+    <SupplierName>Contoso Industrial Supplies</SupplierName>
+    <DocumentDate>2026-04-10</DocumentDate>
+    <Amount>1280.50</Amount>
+    <Currency>EUR</Currency>
+    <Location>BUD</Location>
+    <DocumentType>SupplierInvoice</DocumentType>
+  </Document>
+  <Document>
+    <DocumentId>CM-2026-3002</DocumentId>
+    <SupplierId>SUP-1002</SupplierId>
+    <SupplierName>Fabrikam Logistics</SupplierName>
+    <DocumentDate>2026-04-11</DocumentDate>
+    <Amount>240.00</Amount>
+    <Currency>USD</Currency>
+    <Location>VIE</Location>
+    <DocumentType>CreditMemo</DocumentType>
+  </Document>
+</ImportBatch>

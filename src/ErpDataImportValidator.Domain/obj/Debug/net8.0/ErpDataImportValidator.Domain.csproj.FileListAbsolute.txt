@@ -1,0 +1,11 @@
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Domain\obj\Debug\net8.0\ErpDataImportValidator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Domain\obj\Debug\net8.0\ErpDataImportValidator.Domain.AssemblyInfoInputs.cache
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Domain\obj\Debug\net8.0\ErpDataImportValidator.Domain.AssemblyInfo.cs
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Domain\obj\Debug\net8.0\ErpDataImportValidator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Domain\obj\Debug\net8.0\ErpDataImportValidator.Domain.dll
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Domain\obj\Debug\net8.0\refint\ErpDataImportValidator.Domain.dll
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Domain\obj\Debug\net8.0\ErpDataImportValidator.Domain.pdb
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Domain\bin\Debug\net8.0\ErpDataImportValidator.Domain.deps.json
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Domain\bin\Debug\net8.0\ErpDataImportValidator.Domain.dll
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Domain\bin\Debug\net8.0\ErpDataImportValidator.Domain.pdb
+C:\Users\mizer\Desktop\CV_projects\erp-data-import-validator\src\ErpDataImportValidator.Domain\obj\Debug\net8.0\ref\ErpDataImportValidator.Domain.dll
