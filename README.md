@@ -1,6 +1,6 @@
 # ERP Data Import Validator
 
-`ERP Data Import Validator` is a portfolio-quality ASP.NET Core Web API built with .NET 8 for validating structured business import files before they enter an ERP-style system.
+`ERP Data Import Validator` is an ASP.NET Core Web API built with .NET 8 for validating structured business import files before they enter an ERP-style system.
 
 The project focuses on a practical enterprise scenario: CSV and XML import batches are checked for structural issues, missing required fields, and ERP business-rule violations, then returned as a detailed validation report that operations teams, consultants, or integration developers can act on immediately.
 
@@ -245,20 +245,3 @@ dotnet test ErpDataImportValidator.sln
 ## Optional Docker Support
 
 The repository includes a [Dockerfile](/C:/Users/mizer/Desktop/CV_projects/erp-data-import-validator/Dockerfile) for containerized execution. Docker is optional; the project is intentionally easy to run directly with Visual Studio or the `dotnet` CLI.
-
-## CV Project Description
-
-Built a layered ASP.NET Core Web API in .NET 8 for validating ERP import files in CSV and XML before downstream processing.  
-Implemented structural validation, required-field checks, configurable business rules, duplicate detection, and detailed validation reporting.  
-Added realistic sample import files, focused unit tests, Swagger-based API exploration, and configuration-driven validation settings to reflect practical ERP integration work.  
-Designed the solution around common Business Central and ERP backend concerns such as import control, data quality, and operational error reporting.
-
-## LinkedIn-ready Project Summary
-
-Built `ERP Data Import Validator`, a .NET 8 Web API that validates CSV and XML import files before they enter an ERP workflow. The project checks structure, required fields, and configurable business rules, then returns detailed JSON and markdown validation reports that reflect a realistic enterprise integration utility.
-
-## Interview Talking Points
-
-1. This project demonstrates how to stop bad inbound data before it reaches ERP posting or master-data import processes.
-2. It shows clean separation between file parsing, business-rule validation, reporting, and API delivery, which is essential in maintainable ERP integrations.
-3. It reflects real Business Central style work where CSV/XML imports, configurable validation, and clear operational feedback matter more than frontend complexity.
